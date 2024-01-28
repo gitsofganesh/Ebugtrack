@@ -14,5 +14,6 @@ Contact Details:
 	•	Name: Ganesh Purageri.
 	•	Location: Hyderabad,India.
 	•	Education: BSc.IT, University of Mumbai.
-    •   Experience: 1 Yrs Internship Experience Front End Dev.
-	•	GitHub Profile: 
+ • Experience: 1 Yrs Internship Experience Front End Dev.
+	•	GitHub Profile: https://github.com/gitsofganesh
+	• Linkedin Profile: https://www.linkedin.com/in/ganesh-purageri
